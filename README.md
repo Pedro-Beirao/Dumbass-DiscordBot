@@ -2,6 +2,12 @@
 
 Don't forget to fill in the bot Token at the bottom of bot.py
 
+The bot needs `applications.commands` scope, the `bot` scope is not enough
+
+Wait up to 1 hour for the slash commands to sync with the discord API
+
+https://discord.com/developers/docs/interactions/application-commands
+
 ### Dependecies
 ```
 git+https://github.com/Rapptz/discord.py
