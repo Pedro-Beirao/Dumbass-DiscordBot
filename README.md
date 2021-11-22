@@ -26,7 +26,7 @@ KahootPY
 ### Features
 - Plays music
 - Insults / Jokes
-- Check if a TTV streamer is only
+- Check if a TTV streamer is online
 - Flood a Kahoot game
 - Kick / Ban commands
 - Converts binary / decimal / hexadecimal
